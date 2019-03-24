@@ -69,8 +69,24 @@ p {
     height: 100vh;
 }
 
-iframe {
+#fred-video {
     position: absolute;
-    top: 100vh;
+    bottom: 30px;
+    left: 30px;
+    width: 560px;
+    height: 315px;
+}
+
+#bohemian-rhapsody {
+    position: absolute;
+    top: 200vh;
+    left: 0px;
+    width: 100%;
+    height: 100vh;
+}
+
+#bohemian-rhapsody-video {
+    position: absolute;
+    top: 0px;
     left: 0px;
 }
