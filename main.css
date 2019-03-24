@@ -1,0 +1,76 @@
+#queen-logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 66vw;
+    height: 100vh;
+}
+
+#queen-logo-img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#queen-article {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100vh;
+    background: darkcyan;
+}
+
+#queen-text {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    width: 30%;
+    height: 100vh;
+}
+
+p {
+    text-align: justify;
+    font-family: "Lucida Sans", Arial, sans-serif;
+}
+
+#fred-icon {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 50vw;
+    height: 100vh;
+}
+
+#fred-icon-img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 75%;
+    height: 100%;
+}
+
+#fred-article {
+    position: absolute;
+    top: 100vh;
+    left: 0px;
+    width: 100%;
+    height: 100vh;
+    background: darkgoldenrod;
+}
+
+#fred-text {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    width: 55vw;
+    height: 100vh;
+}
+
+iframe {
+    position: absolute;
+    top: 100vh;
+    left: 0px;
+}
